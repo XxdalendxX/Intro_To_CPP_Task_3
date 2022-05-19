@@ -5,10 +5,7 @@
 
 int main()
 {
-    int age;
-    std::cin >> age;
-    
-    std::cout << "Hello World! I am " << age << " years old!";
+    std::cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
